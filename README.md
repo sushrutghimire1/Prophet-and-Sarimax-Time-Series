@@ -30,7 +30,7 @@ Plots: Trends, components, predictions vs. actuals.
 
 ## 🔧 Setup & Usage
 
-1. Clone: `git clone https://github.com/yourusername/incident-forecasting.git`
+1. Clone: `git clone https://github.com/sushrutghimire1/Forecasting-Software-Failure-Incidents.git`
 2. Install: `pip install -r requirements.txt` (pandas, prophet, statsmodels, etc.)
 3. Data: Add `Time_Series_Data.xlsx`.
 4. Run: `python Forecasting_Incidents.py`
